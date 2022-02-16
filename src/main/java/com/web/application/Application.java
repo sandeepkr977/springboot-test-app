@@ -17,6 +17,6 @@ public class Application {
 
 	@GetMapping(value = "/info")
 	public String getInfo(){
-		return "Hello, I'm springboot :)";
+		return "Hello, I'm sandeep :)";
 	}
 }
